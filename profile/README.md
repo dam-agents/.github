@@ -4,7 +4,9 @@
 </p>
 
 <h3 align="center">
-  An open platform for long-lived AI agents - any harness, any model, on Kubernetes.
+An open platform for long-lived AI agents.
+
+Any harness, any model, on Kubernetes.
 </h3>
 
 <p align="center">
@@ -16,7 +18,7 @@
   ·
   <a href="https://github.com/orgs/dam-agents/repositories"><strong>All repositories</strong></a>
   ·
-  <a href="https://github.com/dam-agents/dam/issues"><strong>Contribute</strong></a>
+  <a href="https://github.com/dam-agents/community"><strong>Community</strong></a>
 </p>
 
 ---
@@ -42,8 +44,8 @@ Run DAM on your own infrastructure, build agent workflows, or contribute to the 
 - **[Explore repositories](https://github.com/orgs/dam-agents/repositories)**  
   Discover platform components, integrations, Starter Kits, and examples.
 
-- **[Contribute](https://github.com/dam-agents/dam/issues)**  
-  Report issues, share ideas, and help shape the project.
+- **[Community guidelines](https://github.com/dam-agents/community/)**
+  Read the project mission, governance, and contribution guidance.
 
 </td>
 <td width="50%" valign="top">
