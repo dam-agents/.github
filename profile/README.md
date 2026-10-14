@@ -10,7 +10,7 @@ Any harness, any model, on Kubernetes.
 </h3>
 
 <p align="center">
-  DAM provides the infrastructure for running agents at scale: isolated sandboxes, credential isolation, durable workspaces, orchestration, scheduled and Slack-based triggers, and cost visibility.
+    Run agents at scale with isolated sandboxes, credential injection, persistent workspaces, orchestration, scheduled triggers, Slack integration, and cost visibility.
 </p>
 
 <p align="center">
