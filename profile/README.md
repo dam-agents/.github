@@ -4,12 +4,8 @@
 </p>
 
 <h3 align="center">
-  An open platform for long-lived AI agents
+  An open platform for long-lived AI agents - any harness, any model, on Kubernetes.
 </h3>
-
-<p align="center">
-  Any harness, any model, on Kubernetes.
-</p>
 
 <p align="center">
   DAM provides the infrastructure for running agents at scale: isolated sandboxes, credential isolation, durable workspaces, orchestration, scheduled and Slack-based triggers, and cost visibility.
