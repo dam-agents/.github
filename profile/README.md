@@ -16,6 +16,8 @@ Any harness, any model, on Kubernetes.
 <p align="center">
   <a href="https://github.com/dam-agents/dam"><strong>Explore DAM</strong></a>
   ·
+  <a href="https://ibm.biz/dam-docs"><strong>Docs</strong></a>
+  ·
   <a href="https://github.com/orgs/dam-agents/repositories"><strong>All repositories</strong></a>
   ·
   <a href="https://github.com/dam-agents/community"><strong>Community</strong></a>
@@ -56,9 +58,6 @@ Use IBM Research's hosted DAM deployment without running your own cluster.
 
 - **[Launch DAM](https://ibm.biz/dam-agents)**  
   Access the hosted platform.
-
-- **[Documentation](https://ibm.biz/dam-docs)**  
-  Learn how to configure and use DAM at IBM.
 
 The hosted deployment includes IBM internal model endpoints and integrations that aren't included in the open-source deployment.
 
